@@ -34,7 +34,7 @@ dt {
 }
 .column1, .column2, .column3 {
 	float: left;
-	margin: 30px;
+	margin: 20px;
     padding: 10px;
 }
 footer {
