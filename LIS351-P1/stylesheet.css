@@ -1,0 +1,42 @@
+* {
+	font-family: Verdana, Arial, sans-serif;
+	color: lightblue;
+	text-align: center;
+}
+body {
+	width: 1024px;
+	margin: 0 auto;
+	background-color: black
+}
+nav {
+    padding: 15px;
+}
+#navli {
+    display: inline;
+    padding: 10px;
+}
+li {
+    padding: 10px;
+}
+dl {
+	padding: 15px;
+	margin: 20px;
+}
+dt, dd { 
+	margin-top: 20px;
+}
+dt { 
+	clear: both;
+}
+#content {
+	overflow: auto;
+	height: 100%;
+}
+.column1, .column2, .column3 {
+	float: left;
+	margin: 30px;
+    padding: 10px;
+}
+footer {
+    padding: 15px;
+}
